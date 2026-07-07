@@ -4,7 +4,7 @@ on: workflow_dispatch
 #on: [push, pull_request]
 
 env:
-  Build_VERSION: '28120.2315'
+  Build_VERSION: '28120.2387'
   FILE_NAME: Windows11_Insider_Preview_ip_prerelease_Canary_amd64
 
 jobs:
